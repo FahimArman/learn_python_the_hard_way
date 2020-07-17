@@ -1,0 +1,8 @@
+#python2 module and library
+
+from sys import sys
+from sys import exit  #exit(0)
+from os.path import exists
+
+
+
